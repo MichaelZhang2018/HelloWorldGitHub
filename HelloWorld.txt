@@ -6,3 +6,6 @@ Test Branch: dev
 
 Test Branch: This is dev2
 
+Test stash: Doing.....Not Completed yet!
+
+Test stash: After stash restored. Completed the job.
